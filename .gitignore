@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Secrets and local config
+.env
+.env.*
+*.pem
+*.key
+
+# Python artifacts (in case example code is added later)
+__pycache__/
+*.pyc
+.venv/
+venv/
