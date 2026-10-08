@@ -4,14 +4,31 @@ A practical GenAI / LLM interview preparation resource, from beginner fundamenta
 
 ![Questions](https://img.shields.io/badge/questions-80-blue) ![Sections](https://img.shields.io/badge/sections-9-blueviolet) ![Format](https://img.shields.io/badge/format-Markdown%20%2B%20PDF-lightgrey)
 
-## About
+## Author
 
-This repository contains **80 interview questions** (Q1–Q80) organized into **9 sections**, covering LLM fundamentals, RAG, agents, evaluation, security, model selection, infrastructure, coding, system design, and behavioral topics. Every section README contains the questions **and their reference answers**, transcribed from the original PDF, which remains the source of truth for all content in this repository.
-
-**Author:** Thirumurugan Munusamy  
+**Thirumurugan Munusamy**  
 AI Technical Architect | PhD Researcher (AI & Data Science)  
-SRM Institute of Science & Technology, Chennai, India  
-[LinkedIn](https://www.linkedin.com/in/thirumurugan-munusamy-77865188/) · [GitHub](https://github.com/Thiru1988Mtech)
+SRM Institute of Science & Technology, Chennai, India
+
+**Focus Areas:**  
+Generative AI | LLMs | RAG | Agentic AI | MLOps | AWS | Azure | GCP
+
+**Experience:**  
+14+ Years in AI, Data, Integration & Enterprise Systems
+
+### Connect With Me
+
+- **LinkedIn:** [Thirumurugan Munusamy](https://www.linkedin.com/in/thirumurugan-munusamy-77865188/)
+- **GitHub:** [Thiru1988Mtech](https://github.com/Thiru1988Mtech)
+- **X:** [@ThiruPhDAI](https://x.com/ThiruPhDAI)
+- **Instagram:** [@thiruphdairesearchscientist](https://lnkd.in/gjg9qa6n)
+- **YouTube:** [Thiru PhD AI Research Scientist](https://www.youtube.com/@ThiruPhDAIResearchScientist)
+- **Coursera:** [Thirumurugan Munusamy](https://www.coursera.org/user/1ac81923769b9673c3381fd91937423e)
+
+### Contact
+
+- **Email:** thirvyrion369@gmail.com
+- **Phone:** +91 98436 23037
 
 ## Table of Contents
 
