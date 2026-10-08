@@ -28,7 +28,6 @@ Generative AI | LLMs | RAG | Agentic AI | MLOps | AWS | Azure | GCP
 ### Contact
 
 - **Email:** thirvyrion369@gmail.com
-- **Phone:** +91 98436 23037
 
 ## Table of Contents
 
